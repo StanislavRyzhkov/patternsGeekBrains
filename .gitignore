@@ -15,3 +15,9 @@ bookshop/.idea
 bookshop/build
 bookshop/begin.sql
 bookshop/HELP.md
+bookshop_hw/begin.sql
+bookshop_hw/build.gradle
+bookshop_hw/gradle
+bookshop_hw/gradlew
+bookshop_hw/settings.gradle
+bookshop_hw/gradlew.bat
