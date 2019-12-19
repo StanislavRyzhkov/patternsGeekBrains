@@ -1,5 +1,5 @@
 .DS_Store
-**/DS_Store
+**/.DS_Store
 hw4/.idea
 hw4/*.iml
 hw4/out
@@ -10,3 +10,4 @@ hw3/*.iml
 hw5/.idea
 hw5/out
 hw5/*.iml
+bookshop/begin.sql
