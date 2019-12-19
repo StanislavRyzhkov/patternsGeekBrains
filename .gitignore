@@ -10,3 +10,8 @@ hw3/*.iml
 hw5/.idea
 hw5/out
 hw5/*.iml
+bookshop/.gradle
+bookshop/.idea
+bookshop/build
+bookshop/begin.sql
+bookshop/HELP.md
